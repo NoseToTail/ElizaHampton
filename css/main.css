@@ -25,6 +25,14 @@
 html, .container-fluid {
   background-color: var(--gray-dark); }
 
+a {
+  color: #fff;
+  text-decoration: none; }
+
+a:hover {
+  color: #dacbcd;
+  text-decoration: none; }
+
 hr {
   background: #fff;
   width: 80%; }
