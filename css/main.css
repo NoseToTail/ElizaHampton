@@ -205,7 +205,6 @@ _::-moz-progress-bar, body:last-child .custom-dropdown select {
   /* increase padding to make room for menu icon */
   padding-right: 1.9em;
   /* `window` appearance with these text-indent and text-overflow values will hide the arrow FF up to v30 */
-  -moz-appearance: window;
   text-indent: 0.01px;
   text-overflow: "";
   /* for FF 30+ on Windows 8, we need to make the select a bit longer to hide the native arrow */
