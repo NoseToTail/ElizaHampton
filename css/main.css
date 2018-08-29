@@ -84,9 +84,9 @@ p {
   left: 0; }
 
 .img3 {
-  bottom: 10%;
-  left: 15%;
-  width: 70%;
+  bottom: 12%;
+  left: 20%;
+  width: 60%;
   display: block;
   margin: auto; }
 
@@ -467,13 +467,13 @@ footer {
 
 @media (min-width: 1439.98px) {
   .header {
-    padding: 5% 0 0; }
+    padding: 6% 0 3%; }
   .header p:first-child {
-    font-size: 2.2rem; }
+    font-size: 2rem; }
   .header--padding {
-    padding: 4% 0 5%; }
+    padding: 5% 0 7%; }
   .form__header {
-    padding-bottom: 3%; }
+    padding-bottom: 5%; }
     .form__header p:first-child {
       font-size: 1em;
       letter-spacing: 6px; }
@@ -485,14 +485,14 @@ footer {
     font-size: 1em;
     line-height: 2; }
   .footer * {
-    font-size: 1.1rem;
+    font-size: 0.9rem;
     padding: 20px 0 0; }
   .contact {
     letter-spacing: 2px;
-    line-height: 1.3;
-    padding: 5px; }
+    line-height: 1.5;
+    padding: 20px 0; }
   .custom-button-style {
-    margin: 15px auto 10px; }
+    margin: 35px auto; }
   .stellerLogo {
     width: 20%;
     display: inline-block;
